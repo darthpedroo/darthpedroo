@@ -17,4 +17,8 @@ this is my description !
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-[![darthpedroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=darthpedroo)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Stats
+
+![darthpedroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=darthpedroo&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=darthpedroo&theme=gruvbox&border_radius=4.5)
