@@ -1,6 +1,5 @@
 # 🐗 darthpedro
 
-#
 
 **`Aspiring Developer`**
 #
