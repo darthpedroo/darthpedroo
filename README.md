@@ -4,7 +4,11 @@
 **`Aspiring Developer`**
 #
 
-Desarrollador enfocado en backend
+Hola!
+
+Soy pedro, desarrollador enfocado en backend, programo mayormente con python pero estoy abierto a nuevas herramientas y tecnologías. 
+En mi perfil podes encontrar los proyectos que hice, desde apis y bases de datos hasta juegos =)
+
 
 #
 
