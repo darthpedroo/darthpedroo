@@ -6,7 +6,7 @@
 
 Hola!
 
-Soy pedro, desarrollador enfocado en backend, programo mayormente con python pero estoy abierto a nuevas herramientas y tecnologías. 
+Soy Pedro, desarrollador enfocado en backend, programo mayormente con python pero estoy abierto a nuevas herramientas y tecnologías. 
 En mi perfil podes encontrar los proyectos que hice. Algunos proyectos son:
 
 - Apis rest
