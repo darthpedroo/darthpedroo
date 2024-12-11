@@ -18,6 +18,10 @@ En mi perfil podes encontrar los proyectos que hice. Algunos proyectos son:
 
 #
 
+### Organización
+
+Cree la organización [reels automation](https://github.com/reels-automation) para manejar mi proyecto de automatización de reels, en el cuál estoy trabajando actualmente. Son muchos repositorios ya que cada uno corresponde a un microservicio distino.  
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
