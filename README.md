@@ -8,16 +8,12 @@ Cree la organización [reels automation](https://github.com/reels-automation) pa
 
 ## Tools
 
-
-<img height="60" width="" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
-<img height="60" width="" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"/>
+<img height="60" width="" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/> <img height="60" width="" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"/>
 <img height="60" width="" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg"/>
 <img height="60" width="" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>
-
-
-<marquee><br>
+<br> </br>
 <img height="60" width="" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
-<img height="60" width="" src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg"/>
-</marquee>
+<img height="60" width="" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"/>
+
 
 *source: https://www.vectorlogo.zone/*
