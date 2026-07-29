@@ -10,6 +10,7 @@ Cree la organización [reels automation](https://github.com/reels-automation) pa
 
 <img height="60" width="" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/> <img height="60" width="" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"/>
 <img height="60" width="" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg"/>
+<img height="60" width="" src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg"/>
 <img height="60" width="" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>
 <br> </br>
 <img height="60" width="" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
